@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.4*%
+%TF.CreationDate,2026-10-16T11:29:51+11:00*%
+%TF.ProjectId,Tower Connector and PS Arm,546f7765-7220-4436-9f6e-6e6563746f72,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.4) date 2026-10-16 11:29:51*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X100000000Y-98000000D02*
+X174000000Y-98000000D01*
+X174000000Y-110000000D01*
+X100000000Y-110000000D01*
+X100000000Y-98000000D01*
+M02*

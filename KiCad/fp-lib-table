@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "My_footprints_Library") (type "KiCad") (uri "C:/Users/mick/Documents/KiCad/10.0/footprints/My_footprints_Library/My_footprints_Library.pretty") (options "") (descr ""))
+)

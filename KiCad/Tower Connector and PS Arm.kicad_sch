@@ -1,0 +1,171 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "ec70a6ff-e411-44e0-b8ff-0fb3c8ca2521")
+	(paper "A4")
+	(lib_symbols)
+	(text_box "Tower\nLED (WS2212b) stack of 2x8 L0 - L7 (bottom to top)\nDin at the bottom Dout at the top "
+		(exclude_from_sim no)
+		(at 85.09 101.6 0)
+		(size 13.97 31.75)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify top)
+		)
+		(uuid "bbc3b564-b853-412e-abbe-4f8cd251b468")
+	)
+	(text_box "Port /Starboard ARM\nConnects from 3 pins on Tower board to 2 LEDs (L8 and L9) on end of arm"
+		(exclude_from_sim no)
+		(at 63.5 83.82 0)
+		(size 76.2 8.8899)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify top)
+		)
+		(uuid "c33bcba3-0f4f-48ce-9643-9c86011ab0d0")
+	)
+	(text_box "Tower Connector\nConnects from 3 pins om mother board to 6 pins on Tower"
+		(exclude_from_sim no)
+		(at 86.36 139.7 0)
+		(size 13.97 21.59)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify top)
+		)
+		(uuid "f392d540-e2d2-4fc4-bc16-7a4cc683760b")
+	)
+	(sheet
+		(at 85.09 138.43)
+		(size 16.51 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "09c85a25-9451-4bb3-a5cb-812606147847")
+		(property "Sheetname" "Tower Connector"
+			(at 85.09 137.7184 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TowerConnector.kicad_sch"
+			(at 85.09 178.3846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Tower Connector and PS Arm"
+				(path "/ec70a6ff-e411-44e0-b8ff-0fb3c8ca2521"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 54.61 77.47)
+		(size 91.44 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "16ceab35-d7b1-47d5-b399-396f2b84d4c8")
+		(property "Sheetname" "Port_Starboard_ARM"
+			(at 54.61 76.7584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Port_Starboard_ARM.kicad_sch"
+			(at 54.61 95.8346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Tower Connector and PS Arm"
+				(path "/ec70a6ff-e411-44e0-b8ff-0fb3c8ca2521"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

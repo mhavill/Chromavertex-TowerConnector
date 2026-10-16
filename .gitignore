@@ -1,0 +1,6 @@
+KiCad\.history
+KiCad/~Tower Connector and PS Arm.kicad_pcb.lck
+KiCad/~Tower Connector and PS Arm.kicad_pro.lck
+# KiCad local history exclusions. Edit to add your own rules.
+fp-info-cache
+*-backups/

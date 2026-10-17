@@ -501,7 +501,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Tower Connector and PS Arm.kicad_pro",
+    "filename": "Tower Connector.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -656,8 +656,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Tower Connector and PS Arm.kicad_sch",
-        "name": "Root",
+        "filename": "Tower Connector.kicad_sch",
+        "name": "Tower Connector",
         "uuid": "ec70a6ff-e411-44e0-b8ff-0fb3c8ca2521"
       }
     ],
@@ -672,10 +672,6 @@
     [
       "09c85a25-9451-4bb3-a5cb-812606147847",
       "Tower Connector"
-    ],
-    [
-      "16ceab35-d7b1-47d5-b399-396f2b84d4c8",
-      "Port_Starboard_ARM"
     ]
   ],
   "text_variables": {},

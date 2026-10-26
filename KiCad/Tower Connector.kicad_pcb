@@ -124,7 +124,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../PS_Arm/")
+			(outputdirectory "build/")
 		)
 	)
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal"
@@ -1021,7 +1021,7 @@
 		)
 		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "3eca5891-9603-4fc3-9a39-34403f52c8c2")
+		(uuid "6d255a68-5480-463a-91d5-688a079b0043")
 	)
 	(segment
 		(start 150.5 101)

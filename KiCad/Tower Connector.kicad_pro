@@ -537,7 +537,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../PS_Arm/",
+      "plot": "build/",
       "specctra_dsn": "",
       "vrml": ""
     },
